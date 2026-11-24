@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "simanga.harvest",
+  "name": "Harvest",
+  "version": "1.0.0",
+  "author": "Simanga",
+  "license": "MIT",
+  "description": "Start and stop Harvest timers and see today's tracked time.",
+  "kinds": ["bar-widget"],
+  "entryPoints": {"barWidget": "BarWidget.qml"},
+  "barWidget": {
+    "displayName": "Harvest",
+    "description": "Work time tracking with Harvest",
+    "category": "Productivity",
+    "allowMultiple": false,
+    "defaultSection": "centerEnd"
+  }
+}
