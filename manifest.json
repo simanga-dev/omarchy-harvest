@@ -13,6 +13,6 @@
     "description": "Work time tracking with Harvest",
     "category": "Productivity",
     "allowMultiple": false,
-    "defaultSection": "centerEnd"
+    "defaultSection": "center"
   }
 }
